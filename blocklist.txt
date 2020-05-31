@@ -211,14 +211,22 @@
 127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 brightcove.net
 127.0.0.1 sec.umeng.com
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-
+127.0.0.1 stat.api.2gis.ru
+127.0.0.1 adhigh.net
+127.0.0.1 site.yandex.net
+127.0.0.1 chat.s3.yandex.net
+127.0.0.1 ext.captcha.yandex.net
+127.0.0.1 api.flocktory.com
+127.0.0.1 cdn.diginetica.net
+127.0.0.1 cookielaw.org
+127.0.0.1 i.clean.gg
+127.0.0.1 apple.comscoreresearch.com
+127.0.0.1 securemetrics.apple.com
+127.0.0.1 improving.duckduckgo.com
+127.0.0.1 roxot-panel.com
+127.0.0.1 api-iam.intercom.io
+127.0.0.1 imweb.ru
+127.0.0.1 carrotquest.io
+127.0.0.1 apps.identrust.com
+127.0.0.1 imasdk.googleapis.com
+127.0.0.1 rtb.com.ru
