@@ -230,3 +230,9 @@
 127.0.0.1 apps.identrust.com
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 rtb.com.ru
+127.0.0.1 hockeyapp.com
+127.0.0.1 ad.mail.ru
+127.0.0.1 instant.page
+127.0.0.1 bnc.lt
+127.0.0.1 hits.top.lv
+127.0.0.1 geni.us
