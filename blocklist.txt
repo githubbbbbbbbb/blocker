@@ -236,3 +236,4 @@
 127.0.0.1 bnc.lt
 127.0.0.1 hits.top.lv
 127.0.0.1 geni.us
+127.0.0.1 yadro.ru
