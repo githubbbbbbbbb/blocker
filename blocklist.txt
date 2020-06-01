@@ -12,6 +12,8 @@
 127.0.0.1 prov.samsungcloudsolution.
 127.0.0.1 connect.facebook.com
 127.0.0.1 connect.facebook.net
+127.0.0.1 connect.facebook.org
+127.0.0.1 connect.facebook.ru
 127.0.0.1 flurry.com
 127.0.0.1 liveinternet.ru
 127.0.0.1 device-provisioning.googleapis.com
