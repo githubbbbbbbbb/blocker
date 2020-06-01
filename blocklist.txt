@@ -375,3 +375,4 @@
 127.0.0.1 ads.betweendigital.com
 127.0.0.1 api.privacy-center.org
 127.0.0.1 sdk.privacy-center.org
+127.0.0.1 mediator.mail.ru
