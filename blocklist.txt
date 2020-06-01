@@ -245,3 +245,15 @@
 127.0.0.1 im0-tub-ru.yandex.net
 127.0.0.1 polyfill.io
 127.0.0.1 crm-analytics.imweb.ru
+127.0.0.1 mc.yandex.ru
+127.0.0.1 mc.yandex.com
+127.0.0.1 mc.yandex.net
+127.0.0.1 an.yandex.ru
+127.0.0.1 an.yandex.com
+127.0.0.1 an.yandex.net
+127.0.0.1 metrica.yandex.ru
+127.0.0.1 metrica.yandex.com
+127.0.0.1 metrica.yandex.net
+127.0.0.1 metrika.yandex.ru
+127.0.0.1 metrika.yandex.com
+127.0.0.1 metrika.yandex.net
