@@ -257,3 +257,12 @@
 127.0.0.1 metrika.yandex.ru
 127.0.0.1 metrika.yandex.com
 127.0.0.1 metrika.yandex.net
+127.0.0.1 clck.yandex.ru
+127.0.0.1 clck.yandex.net
+127.0.0.1 clck.yandex.com
+127.0.0.1 kiks.yandex.ru
+127.0.0.1 kiks.yandex.com
+127.0.0.1 kiks.yandex.net
+127.0.0.1 static-mon.yandex.ru
+127.0.0.1 static-mon.yandex.com
+127.0.0.1 static-mon.yandex.net
