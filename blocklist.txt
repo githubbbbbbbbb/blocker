@@ -266,3 +266,15 @@
 127.0.0.1 static-mon.yandex.ru
 127.0.0.1 static-mon.yandex.com
 127.0.0.1 static-mon.yandex.net
+127.0.0.1 www.google-analytics.com
+127.0.0.1 static.criteo.net
+127.0.0.1 bidder.criteo.com
+127.0.0.1 code.giraff.io
+127.0.0.1 cdn.onthe.io
+127.0.0.1 eepurl.com
+127.0.0.1 www.tns-counter.ru
+127.0.0.1 top-fwz1.mail.ru
+127.0.0.1 tag.digitaltarget.ru
+127.0.0.1 downloads.mailchimp.com
+127.0.0.1 mb.moatads.com
+127.0.0.1 sb.scorecardresearch.com
