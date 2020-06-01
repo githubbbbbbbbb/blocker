@@ -240,3 +240,6 @@
 127.0.0.1 yadro.ru
 127.0.0.1 r.rbc.ru
 127.0.0.1 7v8v.adj.st
+127.0.0.1 im0-tub-ru.yandex.net
+127.0.0.1 polyfill.io
+127.0.0.1 crm-analytics.imweb.ru
