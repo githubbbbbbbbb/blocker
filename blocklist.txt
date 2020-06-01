@@ -282,3 +282,9 @@
 127.0.0.1 insights.samsung.com
 127.0.0.1 analytics.samsungknox.com
 127.0.0.1 bigdata.ssp.samsung.com
+127.0.0.1 metrics.apple.com
+127.0.0.1 securemetrics.apple.com
+127.0.0.1 supportmetrics.apple.com
+127.0.0.1 metrics.icloud.com
+127.0.0.1 metrics.mzstatic.com
+127.0.0.1 dzc-metrics.mzstatic.com
