@@ -278,3 +278,7 @@
 127.0.0.1 downloads.mailchimp.com
 127.0.0.1 mb.moatads.com
 127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 nmetrics.samsung.com
+127.0.0.1 insights.samsung.com
+127.0.0.1 analytics.samsungknox.com
+127.0.0.1 bigdata.ssp.samsung.com
