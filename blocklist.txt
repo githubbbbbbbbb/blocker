@@ -376,3 +376,5 @@
 127.0.0.1 api.privacy-center.org
 127.0.0.1 sdk.privacy-center.org
 127.0.0.1 mediator.mail.ru
+127.0.0.1 vk.mytrk.link
+127.0.0.1 vk-alternate.mytrk.link
