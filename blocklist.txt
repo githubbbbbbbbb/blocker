@@ -383,3 +383,4 @@
 127.0.0.1 stats.appsflyer.com
 127.0.0.1 data.flurry.com
 127.0.0.1 stat.api.2gis.ru
+127.0.0.1 tt.onthe.io
