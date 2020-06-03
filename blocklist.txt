@@ -381,3 +381,5 @@
 127.0.0.1 in.appcenter.ms
 127.0.0.1 api.amplitude.com
 127.0.0.1 stats.appsflyer.com
+127.0.0.1 data.flurry.com
+127.0.0.1 stat.api.2gis.ru
