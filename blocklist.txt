@@ -387,3 +387,6 @@
 127.0.0.1 static.doubleclick.net
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 settings.crashlytics.com
+127.0.0.1 app-measurement.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 play.googleapis.com
