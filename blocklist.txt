@@ -393,3 +393,15 @@
 127.0.0.1 l.create.canva.cn
 127.0.0.1 l.support.canva.cn
 127.0.0.1 l.engage.canva.cn
+127.0.0.1 firebase-settings.crashlytics.com
+127.0.0.1 tags.tiqcdn.com
+127.0.0.1 pinterest.test-app.link
+127.0.0.1 pinterest-alternate.app.link
+127.0.0.1 aviasales.onelink.me
+127.0.0.1 aviasalesapp.page.link
+127.0.0.1 fhbw-alternate.app.link
+127.0.0.1 www.canva.cn
+127.0.0.1 canva.onelink.me
+127.0.0.1 l.support.canva.com
+127.0.0.1 www.canva.com
+127.0.0.1 secure.gravatar.com
