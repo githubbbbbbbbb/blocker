@@ -405,3 +405,8 @@
 127.0.0.1 l.support.canva.com
 127.0.0.1 www.canva.com
 127.0.0.1 secure.gravatar.com
+127.0.0.1 ysa-static.passport.yandex.ru
+127.0.0.1 tinkoffbank.onelink.me
+127.0.0.1 2gis.onelink.me
+127.0.0.1 t.appsflyer.com
+127.0.0.1 events.appsflyer.com
