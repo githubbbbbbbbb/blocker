@@ -331,3 +331,9 @@
 127.0.0.1 2gis.onelink.me
 127.0.0.1 t.appsflyer.com
 127.0.0.1 events.appsflyer.com
+127.0.0.1 report.appmetrica.yandex.net
+127.0.0.1 startup.mobile.webvisor.com
+127.0.0.1 u.startup.mobile.webvisor.com
+127.0.0.1 r0.mradx.net
+127.0.0.1 r0.mail.ru
+127.0.0.1 d0.mradx.net
