@@ -341,3 +341,4 @@
 127.0.0.1 fhbw.app.link
 127.0.0.1 pinterest.app.link
 127.0.0.1 pinterest-alternate.test-app.link
+127.0.0.1 image.sendsay.ru
