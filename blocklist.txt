@@ -337,3 +337,7 @@
 127.0.0.1 r0.mradx.net
 127.0.0.1 r0.mail.ru
 127.0.0.1 d0.mradx.net
+127.0.0.1 geocode-maps.yandex.ru
+127.0.0.1 fhbw.app.link
+127.0.0.1 pinterest.app.link
+127.0.0.1 pinterest-alternate.test-app.link
