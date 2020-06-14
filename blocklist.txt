@@ -346,3 +346,5 @@
 127.0.0.1 yastatic.net
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 icemobile.page.link
+127.0.0.1 r.mail.ru
+127.0.0.1 ads.mopub.com
