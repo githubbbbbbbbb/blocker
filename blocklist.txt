@@ -348,3 +348,7 @@
 127.0.0.1 icemobile.page.link
 127.0.0.1 r.mail.ru
 127.0.0.1 ads.mopub.com
+127.0.0.1 adservice.google.ru
+127.0.0.1 adservice.google.com
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 scnt.rambler.ru
